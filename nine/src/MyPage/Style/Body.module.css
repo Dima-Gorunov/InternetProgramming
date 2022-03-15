@@ -5,17 +5,25 @@
 }
 
 .image_container {
-    position: relative;
     margin: 0 0 0 auto;
+    z-index: 1;
+}
+
+
+.pr_text_container {
+
+    position: absolute;
+    z-index: 2;
+    margin: 124px 0 12px 162px;
+    width: 420px;
+    height: 162px;
+
 }
 
 .pr_text {
-
-    z-index: 1;
-    margin-top: 124px;
-    margin-left: 162px;
-    width: 420px;
-    height: 162px;
+    top: 0;
+    left: 0;
+    margin: 0 0 12px 0;
     font-size: 48px;
     line-height: 54px;
     font-weight: 300;
@@ -25,17 +33,29 @@
     content: "";
 }
 
+.primary_button a {
+    letter-spacing: 0.01em;
+    padding: 9px 16px;
+    border-radius: 29px;
+    height: 40px;
+    font-size: 15px;
+    background-color: #006EFF;
+    text-decoration: none;
+
+}
+
 .under_pr_text {
     width: 288px;
     color: grey;
     line-height: 22px;
     font-size: 17px;
+    margin-bottom: 20px;
 }
 
 .back_image {
     position: absolute;
     z-index: 0;
-    width: 100%;
+    max-width: 1360px;
 }
 
 .image {

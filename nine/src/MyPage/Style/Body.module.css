@@ -1,0 +1,44 @@
+
+.body {
+    display: flex;
+
+}
+
+.image_container {
+    position: relative;
+    margin: 0 0 0 auto;
+}
+
+.pr_text {
+
+    z-index: 1;
+    margin-top: 124px;
+    margin-left: 162px;
+    width: 420px;
+    height: 162px;
+    font-size: 48px;
+    line-height: 54px;
+    font-weight: 300;
+}
+
+.pr_text::before {
+    content: "";
+}
+
+.under_pr_text {
+    width: 288px;
+    color: grey;
+    line-height: 22px;
+    font-size: 17px;
+}
+
+.back_image {
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+}
+
+.image {
+    width: 945px;
+    height: 660px;
+}

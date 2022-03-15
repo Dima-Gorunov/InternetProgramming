@@ -1,22 +1,124 @@
 
-.body {
-    display: flex;
-
+.body_top {
+    background-color: #f5f5f5;
+    margin-bottom: 112px;
 }
 
-.image_container {
+.body_center {
+    margin-bottom: 140px;
+}
+
+.body_bottom {
+    margin-bottom: 112px;
+}
+
+
+.top_image_container {
     margin: 0 0 0 auto;
     z-index: 1;
 }
 
+.center_image_container {
+    margin: 0 68px 0 auto;
+    width: 611px;
+    height: 600px;
+}
 
-.pr_text_container {
+.bottom_container {
+    width: 1224px;
+    height: 328px;
+    margin: 0 auto;
+}
 
+
+.image_foreground {
+    position: absolute;
+}
+
+.Mobile_element {
     position: absolute;
     z-index: 2;
-    margin: 124px 0 12px 162px;
+    margin: 318px 288px 56px 91px;
+}
+
+.TV_image {
+    position: absolute;
+    z-index: 1;
+    margin: 32px 0 71px 137px;
+}
+
+.Rectangle_container {
+    width: 1224px;
+    height: 328px;
+}
+
+.Rectangle {
+    position: absolute;
+    width: 1224px;
+    height: 328px;
+    z-index: 1;
+    background: linear-gradient(45deg, rgba(250, 249, 249, 0.9), rgba(250, 249, 249, 0.9));
+    backdrop-filter: blur(4px);
+}
+
+
+.Circle {
+    position: absolute;
+    backdrop-filter: blur(15px);
+
+}
+
+
+.Orange {
+    width: 158px;
+
+}
+
+.Green {
+    width: 158px;
+}
+
+.Circle .Orange {
+    margin: 0 0 0 711px;
+    z-index: 0;
+}
+
+.Circle .Green {
+    margin: 160px 0 0 312px;
+    z-index: 0;
+
+}
+
+.Circle_backdrop {
+    position: absolute;
+    width: 1224px;
+    height: 328px;
+    backdrop-filter: blur(60px);
+}
+
+
+.pr_top_text_container {
+    position: absolute;
+    z-index: 2;
+    margin: 124px 0 0 162px;
     width: 420px;
-    height: 162px;
+
+}
+
+.pr_center_text_container {
+    position: absolute;
+    z-index: 2;
+    margin: 161px 0 0 162px;
+    width: 420px;
+
+}
+
+.pr_buttom_text_container {
+    position: absolute;
+    z-index: 2;
+    margin-top: 80px;
+    text-align: center;
+    width: 420px;
 
 }
 
@@ -29,11 +131,13 @@
     font-weight: 300;
 }
 
-.pr_text::before {
-    content: "";
+.center {
+    margin: 124px 0 12px 162px;
+
 }
 
-.primary_button a {
+
+.primary_button {
     letter-spacing: 0.01em;
     padding: 9px 16px;
     border-radius: 29px;
@@ -41,11 +145,23 @@
     font-size: 15px;
     background-color: #006EFF;
     text-decoration: none;
-
+    color: white;
+}
+.primary_button_Grey{
+    letter-spacing: 0.01em;
+    padding: 9px 16px;
+    border-radius: 29px;
+    height: 40px;
+    font-size: 15px;
+    border: 1px solid grey;
+    text-decoration: none;
+    color: grey;
 }
 
+
+
 .under_pr_text {
-    width: 288px;
+
     color: grey;
     line-height: 22px;
     font-size: 17px;

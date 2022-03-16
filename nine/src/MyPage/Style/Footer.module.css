@@ -1,6 +1,77 @@
 
-
-.footer{
-    background-color: black;
-    color: white;
+.footer {
+    width: 1360px;
+    background-color: #F3F4F5;
+    color: #333F48;
+    font-weight: 400;
+    line-height: 18px;
+    padding: 30px 69px 30px 30px;
 }
+
+.top_container {
+    opacity: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.top_container ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.top_container h2 {
+    margin: 0 0 4px 0;
+    line-height: 22px;
+}
+
+
+.top_left_items {
+
+}
+
+.top_left_items ul li {
+    margin-bottom: 15px;
+}
+
+.top_left_items ul:first-child {
+    margin-right: 136px;
+}
+
+.top_right_items {
+    width: 400px;
+}
+
+.top_right_items ul li {
+    margin-bottom: 24px;
+}
+
+.top_right_items ul li:last-child {
+    margin-bottom: 35px;
+}
+
+.bottom_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom_left_content {
+    opacity: 50%;
+    display: flex;
+    list-style: none;
+}
+
+.bottom_left_content li:not(:last-child) {
+    margin-right: 16px;
+
+}
+
+.Visa {
+    line-height: 20px;
+    width: 400px;
+}
+
+
+
+
+

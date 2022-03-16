@@ -4,9 +4,9 @@ const HeaderMenu = () => {
     return (
         <div>
             <ul>
-                <li>Салют</li>
-                <li>Магазин</li>
-                <li>Разработчикам</li>
+                <li><a href="">Салют</a></li>
+                <li><a href="">Магазин</a></li>
+                <li><a href="">Разработчикам</a></li>
             </ul>
         </div>
     );

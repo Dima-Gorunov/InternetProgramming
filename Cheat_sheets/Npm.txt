@@ -1,0 +1,11 @@
+npx create-react-app my-app
+
+npm i react-router-dom{
+BrowserRouter, Routes, Route, NavLink
+}
+
+npm i react-redux{
+	Provider, connect()(<></>), 
+}
+
+

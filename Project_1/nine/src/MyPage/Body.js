@@ -8,6 +8,7 @@ import MobileElement from "../Img/Mobile_element.png"
 import Rectangle from "../Img/Rectangle 3991.png"
 import GreenCircle from "../Img/green_circle.png"
 import OrangeCircle from "../Img/orange_circle.png"
+import PrimaryButton from "../CustomElement/PrimaryButton";
 
 const Body = () => {
     return (
@@ -21,9 +22,9 @@ const Body = () => {
                         Удобные и красивые устройства <br/> на каждый день
                     </div>
                     <div>
-                        <div>
-                            <a href="" className={style.primary_button}>Смотреть</a>
-                        </div>
+                        <PrimaryButton>
+                            Смотреть
+                        </PrimaryButton>
                     </div>
                 </div>
                 <div className={style.top_image_container}>
@@ -39,9 +40,9 @@ const Body = () => {
                         Создавайте и монетизируйте приложения с помощью нового маркета приложений Sber
                     </div>
                     <div>
-                        <div>
-                            <a href="" className={style.primary_button}>Подробнее</a>
-                        </div>
+                        <PrimaryButton>
+                            Продробнее
+                        </PrimaryButton>
                     </div>
                 </div>
                 <div className={style.center_image_container}>

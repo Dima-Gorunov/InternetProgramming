@@ -1,0 +1,15 @@
+
+.primary_button {
+    letter-spacing: 0.01em;
+    padding: 9px 16px;
+    border-radius: 29px;
+    height: 40px;
+    font-size: 15px;
+    background-color: #006EFF;
+    text-decoration: none;
+    color: white;
+}
+
+.primary_button:hover {
+    cursor: pointer
+}

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1636d734-364d-4131-a5b6-10cd8cff07a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_roj/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="26iz4sqD2W9rTM56lG8aXk632Ft" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/second/src/TestContainer/NextButton" />
+    <property name="settings.editor.selected.configurable" value="file.status.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\img\Elements" />
+      <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\img\Elements\firstPage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\TestContainer\NextButton" />
+      <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\img\BackGround" />
+      <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\img\Elements" />
+      <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\TestContainer" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1636d734-364d-4131-a5b6-10cd8cff07a0" name="Default Changelist" comment="" />
+      <created>1647921007165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647921007165</updated>
+      <workItem from="1647921010277" duration="43000" />
+      <workItem from="1647921054676" duration="1128000" />
+      <workItem from="1647922246304" duration="1248000" />
+      <workItem from="1647928340483" duration="28300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="275" key="#Notifications" timestamp="1647921495537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1647921495537" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1647922189760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1647922189760" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1647921682488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1647921682488" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1647954525957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1647954525957" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1647942116313">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1647942116313" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1647954521981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1647954521981" />
+  </component>
+</project>

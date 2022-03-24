@@ -1,0 +1,50 @@
+
+.test_container {
+    width: 1095px;
+}
+
+
+.default{
+    margin: 0 30px;
+    padding: 10px;
+    border-radius: 30px;
+}
+.progress_container{
+    height: 6px;
+    background-color: #0096EC;
+    display: flex;
+}
+.progress_active {
+    background-color: #6BFF2F;
+}
+.progress_items_default{
+    width: 100%;
+}
+
+.question_text {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: 163px auto 92px;
+}
+
+.next_page_bottom {
+    position: absolute;
+    right: 170px;
+}
+
+.card_is_true {
+    background-color: #9AFF21;
+}
+
+.card_is_false {
+    background-color: #FF0F8E;
+}
+
+.nextPage_active {
+    display: flex;
+}
+
+.nextPage_disActive {
+    display: none;
+}

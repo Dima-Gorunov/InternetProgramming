@@ -1,32 +1,65 @@
 
+.App {
+    width: 1920px;
+    height: 1080px;
+    background-color: #282c34;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.resultPage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 400px;
+}
+
 .test_container {
+    color: white;
     width: 1095px;
+    height: 813px;
+    background: linear-gradient(241.84deg, #003DCE -3.61%, rgba(21, 170, 255, 0) 48.73%, rgba(20, 164, 252, 0.0598291) 48.74%, #003DCE 95.39%);
+    border-radius: 51px;
+    margin: auto;
 }
 
 
-.default{
+.default {
     margin: 0 30px;
     padding: 10px;
     border-radius: 30px;
 }
-.progress_container{
+
+.progress_container {
     height: 6px;
     background-color: #0096EC;
     display: flex;
 }
+
 .progress_active {
     background-color: #6BFF2F;
 }
-.progress_items_default{
+
+.progress_items_default {
     width: 100%;
 }
 
-.question_text {
+.question_container {
+    height: 400px;
     position: relative;
     display: flex;
+    align-items: center;
     justify-content: center;
-    margin: 163px auto 92px;
+    color: #fff;
 }
+
+.question_text {
+    width: 466px;
+    text-align: center;
+}
+
 
 .next_page_bottom {
     position: absolute;
@@ -42,7 +75,9 @@
 }
 
 .nextPage_active {
-    display: flex;
+    position: absolute;
+    margin-left: 63px;
+    top: 40%;
 }
 
 .nextPage_disActive {

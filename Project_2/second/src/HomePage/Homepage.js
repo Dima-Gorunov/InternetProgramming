@@ -1,14 +1,24 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import TestContainer from "../TestContainer/TestContainer";
+import {getQuestionThunk} from "../Reducers/TestReducer";
+import {connect} from "react-redux";
+import style from "../TestContainer/Test.module.css"
 
-const Homepage = () => {
+const HomepageContainer = (props) => {
+    useEffect(() => {
+        props.getQuestionThunk(props.activepage)
+    }, [])
     return (
-        <div className="d-flex justify-content-center align-items-center bg-black p-5">
-            <div className="bg-danger p-5">
-                <TestContainer/>
-            </div>
+        <div>
+            <TestContainer/>
         </div>
     );
 };
 
-export default Homepage;
+let mapStateToProps = (state) => {
+    return {
+        activepage: state.Test.activepage
+    }
+}
+
+export default connect(mapStateToProps, {getQuestionThunk})(HomepageContainer);

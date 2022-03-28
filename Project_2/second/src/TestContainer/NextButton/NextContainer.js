@@ -1,7 +1,7 @@
 import React from 'react';
 import {connect} from "react-redux";
 import Next from "./Next";
-import {onPageChanged} from "../../Reducers/TestReducer";
+import {getQuestionThunk, onPageChanged} from "../../Reducers/TestReducer";
 
 const NextContainer = (props) => {
     return (
@@ -17,4 +17,4 @@ let mapStateToProps = (state) => {
     }
 }
 
-export default connect(mapStateToProps, {onPageChanged})(NextContainer);
+export default connect(mapStateToProps, {onPageChanged,getQuestionThunk})(NextContainer);

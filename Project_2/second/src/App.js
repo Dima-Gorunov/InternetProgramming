@@ -1,12 +1,13 @@
 import logo from './logo.svg';
-import style from './App.css';
+import style from './TestContainer/Test.module.css';
 import "bootstrap/dist/css/bootstrap.min.css"
-import Homepage from "./HomePage/Homepage";
+import HomepageContainer from "./HomePage/Homepage";
+import React from "react";
 
 function App() {
     return (
         <div className={style.App}>
-            <Homepage/>
+            <HomepageContainer/>
         </div>
     );
 }

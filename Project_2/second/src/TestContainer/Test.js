@@ -3,36 +3,24 @@ import ProgressContainer from "./ProgressContainer";
 import notFound from "../img/Elements/img_not_found.jpg"
 import style from "./Test.module.css"
 import NextContainer from "./NextButton/NextContainer";
+import ActiveTestContainer from "./ActiveTestContainer";
+import QuesTextContainer from "./QuesText/QuesTextContainer";
 
 const Test = (props) => {
 
     return props.activequestion
         ? (
-            <div>
+            <div className={style.test_container}>
                 <ProgressContainer/>
-                <div className={style.question_text}>
+                <div className={style.question_container}>
                     <div>
-                        {props.activequestion.text}
+                        <QuesTextContainer/>
                     </div>
                     <div>
                         <NextContainer/>
                     </div>
                 </div>
-                <div className="col-10 d-flex">
-                    {props.activequestion.variables.map((e, index) => (
-                        <span key={`img${index}`}
-                              className={`${style.default} ${e.accuracy && e.onclicked
-                                  ? style.card_is_true
-                                  : !e.accuracy && e.onclicked
-                                      ? style.card_is_false
-                                      : ""}`}
-                              onClick={(target) => {
-                                  props.setOnClickedThunk(e.accuracy, e.id);
-                              }}>
-                            <img style={{maxWidth:"200px"}} src={e.img ? e.img : notFound} alt=""/>
-                        </span>
-                    ))}
-                </div>
+                <ActiveTestContainer/>
             </div>)
         : <div>Загрузка</div>
 };

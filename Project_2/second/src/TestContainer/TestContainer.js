@@ -3,14 +3,16 @@ import Test from "./Test";
 import {connect} from "react-redux";
 import style from "./Test.module.css"
 import {getQuestionThunk, onPageChanged, setOnClickedThunk} from "../Reducers/TestReducer";
+import ResultPageContainer from "./ResultPageContainer";
 
 const TestContainer = (props) => {
     useEffect(() => {
-        props.getQuestionThunk(props.activepage);
     }, [props.activepage])
     return (
-        <div className={style.test_container}>
-            <Test {...props}/>
+        <div>
+            {props.activepage > props.questions.length-1 ?
+                <ResultPageContainer/>
+                : <Test {...props}/>}
         </div>
     );
 };

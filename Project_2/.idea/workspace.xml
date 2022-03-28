@@ -2,25 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1636d734-364d-4131-a5b6-10cd8cff07a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_roj/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/dist/redux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/dist/redux.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/es/redux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/es/redux.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/lib/redux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/applyMiddleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/bindActionCreators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/combineReducers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/compose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/createStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/utils/actionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/utils/formatProdErrorMessage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/utils/isPlainObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/utils/kindOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/utils/symbol-observable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/utils/warning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/second/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/second/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/src/HomePage/Homepage.js" beforeDir="false" afterPath="$PROJECT_DIR$/second/src/HomePage/Homepage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/src/Reducers/TestReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/second/src/Reducers/TestReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/src/TestContainer/NextButton/Next.js" beforeDir="false" afterPath="$PROJECT_DIR$/second/src/TestContainer/NextButton/Next.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/src/TestContainer/NextButton/NextContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/second/src/TestContainer/NextButton/NextContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/src/TestContainer/ProgressContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/second/src/TestContainer/ProgressContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/src/TestContainer/Test.js" beforeDir="false" afterPath="$PROJECT_DIR$/second/src/TestContainer/Test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/src/TestContainer/Test.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/second/src/TestContainer/Test.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/src/TestContainer/TestContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/second/src/TestContainer/TestContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/second/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +60,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/second/src/TestContainer/NextButton" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Project/Treaning/treanerReact_2/treaner_2" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="file.status.colors" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\img\Elements" />
-      <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\img\Elements\firstPage" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\TestContainer\NextButton" />
       <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\img\BackGround" />
       <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\img\Elements" />
       <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\TestContainer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\img" />
+      <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\img\Elements" />
+      <recent name="C:\Users\gorun\Desktop\InternetPrograming\Project_2\second\src\img\Elements\firstPage" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -71,6 +92,7 @@
       <workItem from="1647921054676" duration="1128000" />
       <workItem from="1647922246304" duration="1248000" />
       <workItem from="1647928340483" duration="28300000" />
+      <workItem from="1648472353764" duration="11940000" />
     </task>
     <servers />
   </component>
@@ -82,22 +104,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1647921495537" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1647922189760">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1648474357535">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1647922189760" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1648474357535" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1647921682488">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1647921682488" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1647954525957">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1648484255088">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1647954525957" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1647942116313">
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1648484255088" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1648478534230">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1647942116313" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1648478534230" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1647954521981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
